@@ -25,8 +25,15 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
+    padding-top: 30vh;
     text-align: center;
+}
+
+.section-1 img{
+    border-radius: 50%;
+    width: 100%;
+    max-width: 200px;
+    height: auto;
 }
 
 .section-1 p{
